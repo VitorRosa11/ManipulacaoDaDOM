@@ -1,0 +1,9 @@
+li {
+    cursor: pointer;
+    margin-bottom: 8px;
+}
+
+li.riscado {
+text-decoration: line-through;
+color: gray;
+}
